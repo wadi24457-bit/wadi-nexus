@@ -1,0 +1,17 @@
+{
+  "name": "Nexus — نظّم فلوسك ووقتك ويومك",
+  "short_name": "Nexus",
+  "description": "تطبيق محمد وادي لتنظيم الفلوس والوقت والعادات",
+  "start_url": "./nexus.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#05070f",
+  "theme_color": "#05070f",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
